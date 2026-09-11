@@ -15,7 +15,7 @@
 
 
 ## 🌟 About Me  
-- 🎓 **CSE Student** | Final Year Engineering Undergraduate  
+- 🎓 ** Software Engineer **   
 - 👨‍💻 **Full-Stack Developer** passionate about creating impactful digital experiences.  
 - 🌱 Learning new technologies every day to sharpen my skills.  
 - 💡 Exploring **Web**, **APP** and **Cloud Technologies.**    
